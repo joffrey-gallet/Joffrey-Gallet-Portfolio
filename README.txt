@@ -12,6 +12,8 @@ aj@lkn.io | @ajlkn
 Credits:
     Photos:
         Maelle Gallet, photographe à Abbeville.
+    Photos:
+        Maelle Gallet, photographe à Abbeville.
 	Icons:
 		Font Awesome (fontawesome.io)
 	Other:
